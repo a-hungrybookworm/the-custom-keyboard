@@ -1,4 +1,4 @@
-## Files
+# files
 README.md — a writeup of your project: what you built, why, and what you learned
 PCB files — your KiCad project (schematics, layout, Gerbers). To export from KiCad:
 Open your project in KiCad and launch PCB Editor
