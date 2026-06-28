@@ -5,6 +5,6 @@ I've set up Hackatime, and I've been going through the (really long) Slack chats
 
 I'm really excited to build this keyboard, and I hope my inexperienced design \**works**\. - I'm learning Markdown too!
 
-a-hungrybookworm
+~ a-hungrybookworm
 
 28/ 06/ 2026
