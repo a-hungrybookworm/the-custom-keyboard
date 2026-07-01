@@ -34,12 +34,20 @@ I'm pretty much done with my schematic now.
 
 <img width="1333" height="921" alt="Schematic_2" src="https://github.com/user-attachments/assets/67cc8088-e21a-409b-8abb-334c49dddb52" />
 
-So I don't have arrow keys (to save space :)), cause that space was taken up by the right shift - but I guess it should be fine, as I never use them anyway. I tried to add a rotary encoder too, but it seemed a bit complex and I wasn't too sure if it would work. For my first project, I think I'll stick to making it simple.
+So I don't have arrow keys (to save space :)), cause that space was taken up by the right shift - but I guess it should be fine, as I never use them anyway. I tried to add a rotary encoder too, but it seemed a bit complex (it had a lot of resistors in the wiring, and used a lot of pins - I'd have to change the microcontroller) and I wasn't too sure if it would work. For my first project, I think I'll stick to making it simple.
 
-Also, is 8 stabilisers a bit too much?
+Also, is 8 stabilisers a bit too much? And the stabilisers need to be different for different sized keys - but marbastlib has only one size oif stabilisers.
 
 I'll do the routing tomorrow.
 
 ~ a-hungrybookworm
 
 28/06/2026
+
+# Schematic (again!)
+
+## 7.00 p.m.
+
+I've been going through the chats again, and my keeb really does seem too simple. It's just a plain old boring 60% keyboard, without any cool mods. But then, I don't even know what I want to make - a corne split keyboard (like Joe Scooto)? Or do I add a rotary encoder (I feel bad about that now), or Bluetooth, or even LED lights? idk... I'll research a bit.
+
+
